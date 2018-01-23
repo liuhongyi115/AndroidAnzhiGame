@@ -79,7 +79,7 @@ package com.anzhi.ane
 		} 
 		/**
 		 *登录发送函数  
-		 * @param key 暂时传什么都可以  留着可能要用
+		 * @param key 暂时传什么都可以  留着可能要用 //原来如此
 		 * @return 
 		 * 
 		 */		
